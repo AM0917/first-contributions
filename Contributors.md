@@ -6,6 +6,7 @@
 -[Tejas Kulkarni](https://github.com/tejaskulkarni28)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Sky Kal](https://github.com/SkyKal)
+- [Andrew M.]
 - [Miguel Tejeda](https://github.com/Mtjay)
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Rafiqul Islam Suvo](https://github.com/mexuvo)
